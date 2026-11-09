@@ -1,0 +1,21 @@
+{
+  "name": "lectia-11",
+  "version": "1.0.0",
+  "description": "Modificarea adaugat pe branch-ul secundar\r Sarcina rezolvata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balabanbogdan-ctrlv/lectia-11-balaban-bogdan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/balabanbogdan-ctrlv/lectia-11-balaban-bogdan/issues"
+  },
+  "homepage": "https://github.com/balabanbogdan-ctrlv/lectia-11-balaban-bogdan#readme"
+}
